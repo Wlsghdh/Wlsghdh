@@ -24,6 +24,35 @@
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+<a href="https://github.com/Wlsghdh">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wlsghdh&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/Wlsghdh">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlsghdh&layout=compact&hide_border=true&theme=graywhite" />
+</a>
+</div>
+
+<div align="center">
+<a href="https://github.com/Wlsghdh">
+  <img src="https://ghchart.rshah.org/Wlsghdh" alt="GitHub Contribution Graph" width="90%" />
+</a>
+</div>
+
+---
+
+### Vision & Goals
+
+| | Area | Detail |
+|---|---|---|
+| :mortar_board: | **Graduate School** | Computer Vision / Deep Learning 연구, Instance Segmentation · Multimodal Learning, 논문 작성 및 학회 발표 |
+| :car: | **Startup** | Vision AI 기반 중고차 상태 분석 플랫폼, 차량 외관 결함 자동 탐지, 데이터 기반 중고차 가치 평가 |
+| :microscope: | **Research** | Industrial Defect Detection, Thermal Imaging + Sensor Fusion, AI for Drug Discovery |
+
+---
+
 ### Tech Stack
 
 **Languages**
@@ -68,43 +97,6 @@
 > **ResNet Without Skip Connection** — [repo](https://github.com/Wlsghdh/resnet-without-skip-connection)
 >
 > Skip Connection 없이 ResNet 성능을 실험하며, Weight Initialization 전략의 효과를 탐구합니다.
-
----
-
-### Vision & Goals
-
-```
-  ┌─────────────────────────────────────────────────────────┐
-  │                                                         │
-  │   Graduate School                                       │
-  │   ├── Computer Vision / Deep Learning 연구              │
-  │   ├── Instance Segmentation · Multimodal Learning       │
-  │   └── 논문 작성 및 학회 발표                              │
-  │                                                         │
-  │   Startup                                               │
-  │   ├── Vision AI 기반 중고차 상태 분석 플랫폼             │
-  │   ├── 차량 외관 결함 자동 탐지 시스템                    │
-  │   └── 데이터 기반 중고차 가치 평가                       │
-  │                                                         │
-  │   Research Interests                                    │
-  │   ├── 산업 결함 탐지 (Industrial Defect Detection)      │
-  │   ├── Thermal Imaging + Sensor Fusion                   │
-  │   └── AI for Drug Discovery                             │
-  │                                                         │
-  └─────────────────────────────────────────────────────────┘
-```
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Jinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wlsghdh&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wlsghdh&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
