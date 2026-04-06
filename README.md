@@ -9,6 +9,9 @@
 [![GitHub](https://img.shields.io/badge/-Wlsghdh-181717?style=flat&logo=github&logoColor=white)](https://github.com/Wlsghdh)
 [![Email](https://img.shields.io/badge/-wlsgh20728@suwon.ac.kr-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wlsgh20728@suwon.ac.kr)
 
+<img src="https://github-readme-stats.vercel.app/api?username=Wlsghdh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlsghdh&layout=compact&hide_border=true" height="165" />
+
 </div>
 
 ---
@@ -21,25 +24,6 @@
 - 현재 **Instance Segmentation**, **Object Detection**, **Multimodal Learning** 분야를 탐구하고 있습니다
 - **대학원 진학**을 준비하며 CV/AI 연구를 이어가고 싶습니다
 - **Vision AI 기반 중고차 분석 플랫폼**을 만들어 1인 창업을 계획하고 있습니다
-
----
-
-### GitHub Stats
-
-<div align="center">
-<a href="https://github.com/Wlsghdh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Wlsghdh&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/Wlsghdh">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wlsghdh&layout=compact&hide_border=true&theme=graywhite" />
-</a>
-</div>
-
-<div align="center">
-<a href="https://github.com/Wlsghdh">
-  <img src="https://ghchart.rshah.org/Wlsghdh" alt="GitHub Contribution Graph" width="90%" />
-</a>
-</div>
 
 ---
 
