@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Jinho Joo
+# Hey there, I'm Jinho Ju
 
 **`Data Scientist` · `Computer Vision Researcher` · `Aspiring Entrepreneur`**
 
